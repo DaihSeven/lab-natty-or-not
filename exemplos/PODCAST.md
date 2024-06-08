@@ -8,7 +8,7 @@ Este podcast explora o avanço notável no campo da inteligência artificial, co
 - Inteligência Artificial Generativa **[PODCASTLE](https://podcastle.ai/editor/project/6664e84192f14513d561e671)** para a sintetização de voz, transcrição do texto para voz e gravação do podcast;
 
 ## 🧐 Processo de Criação
-Utilizei o "ChatGPT" para escrever e revisar o roteiro do podcast, que aborda o impacto revolucionário das IAGs. O "PODCASTLE" foi usado para criar a gravação e uma voz sintetizada, adicionando uma dimensão futurística ao vídeo.
+Utilizei o "ChatGPT" para escrever e revisar o roteiro do podcast, que aborda o impacto revolucionário das IAGs. O "PODCASTLE" foi usado para criar a gravação e uma voz sintetizada.
 
 ## 🚀 Resultados
 O podcast oferece uma visão rápida e envolvente do potencial e da aplicação das IAGs, destacando seu papel na transformação da criatividade, na influência sobre indústrias e economias, na melhoria da experiência do consumidor e nos desafios éticos e sociais que elas apresentam.
