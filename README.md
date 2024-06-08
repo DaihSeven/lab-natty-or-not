@@ -30,4 +30,4 @@ Este projeto foi uma experiência incrível em contar histórias visuais, utiliz
 ## Links 🔗
 - [E-book](https://github.com/DaihSeven/lab-natty-or-not/blob/main/exemplos/E-BOOK.md) 
 - [Podcast](https://github.com/DaihSeven/lab-natty-or-not/blob/main/exemplos/PODCAST.md)
-- [Vídeo]()
+- [Vídeo](https://github.com/DaihSeven/lab-natty-or-not/blob/main/exemplos/VIDEO.md)
