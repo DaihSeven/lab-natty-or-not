@@ -28,6 +28,6 @@ O projeto oferece uma visão rápida e envolvente do potencial e da aplicação 
 ## Reflexão 💭
 Este projeto foi uma experiência incrível em contar histórias visuais, utilizando as IAGs para criar uma narrativa poderosa e cativante sobre o futuro da inteligência artificial. As IAGs estão não apenas moldando o presente, mas também delineando o futuro de nossa sociedade, e este vídeo é uma tentativa de capturar esse fenômeno em andamento.
 ## Links 🔗
-- [E-book]() 
+- [E-book](https://github.com/DaihSeven/lab-natty-or-not/blob/main/exemplos/E-BOOK.md) 
 - [Podcast](https://github.com/DaihSeven/lab-natty-or-not/blob/main/exemplos/PODCAST.md)
 - [Vídeo]()
